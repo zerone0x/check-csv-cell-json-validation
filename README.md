@@ -1,4 +1,4 @@
-# MathOS JSON CSV Validator
+# JSON CSV Validator
 
 A powerful tool for validating and fixing JSON data stored in CSV files.
 
