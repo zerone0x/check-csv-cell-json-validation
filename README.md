@@ -18,17 +18,14 @@ This utility helps you identify, validate, and fix JSON formatting issues in CSV
 ## Requirements
 
 - Python 3.6+
-- Optional: `jsonschema` library for schema validation
-  ```
-  pip install jsonschema
-  ```
+- Required dependencies are listed in `requirements.txt`
 
 ## Installation
 
 1. Clone this repository or download the script
-2. Install the optional dependencies:
+2. Install the dependencies:
    ```
-   pip install jsonschema
+   pip install -r requirements.txt
    ```
 
 ## Usage
